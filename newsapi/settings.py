@@ -40,7 +40,6 @@ INSTALLED_APPS = [
     'artical.apps.ArticalConfig',
     'rest_framework',
     'crispy_forms',
-    'django_filters',
     'corsheaders',
     'rest_framework.authtoken',
 ]

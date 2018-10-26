@@ -18,7 +18,7 @@ class Category(models.Model):
 
 class Item(models.Model):
     title = models.CharField(max_length=20,verbose_name='名称',help_text='名称')
-    create_date = models.DateTimeField(default=datetime.datetime.now(),verbose_name='创建时间',help_text='创建时间')
+    created_date = models.DateTimeField(default=datetime.datetime.now(),verbose_name='创建时间',help_text='创建时间')
     completed = models.BooleanField(default=False,verbose_name='是否完成',help_text='是否完成')
     categorys = models.ForeignKey(Category,related_name='item_category',on_delete=models.CASCADE,help_text='大类')
 
@@ -48,7 +48,7 @@ class Artical(models.Model):
     author = models.ForeignKey(User,on_delete=models.CASCADE,related_name='artical_author',verbose_name='作者',help_text='作者')
     content = UEditorField('内容',height=400,width=600,default='',imagePath='upload/',toolbars='mini',filePath='upload/',blank=True)
     status = models.CharField(max_length=2,verbose_name='状态',help_text='状态')
-    tags = models.ForeignKey(Tag,related_name='artical_tags',blank=True,help_text='文章状态')
+    tags = models.ForeignKey(Tag,related_name='artical_tags',on_delete=models.CASCADE,blank=True,help_text='文章状态')
     publish_date = models.DateTimeField(default=datetime.datetime.now(),verbose_name='发布日期',help_text='发布日期')
     expiration_date = models.DateTimeField(blank=True,null=True,verbose_name='有效日期',help_text='有效日期')
     is_activate = models.BooleanField(default=True,blank=True,verbose_name='是否热门',help_text='是否热门')

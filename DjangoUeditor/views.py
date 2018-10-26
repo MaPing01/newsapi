@@ -1,7 +1,7 @@
 #coding:utf-8
 from importlib import import_module
 from django.http import HttpResponse
-import settings as USettings
+from . import settings as USettings
 import os
 import json
 from django.views.decorators.csrf import csrf_exempt
@@ -25,7 +25,7 @@ def save_upload_file(PostFile,FilePath):
         f = open(FilePath, 'wb')
         for chunk in PostFile.chunks():
             f.write(chunk)
-    except Exception,E:
+    except Exception as E:
         f.close()
         return u"写入文件错误:"+ E.message
     f.close()
@@ -254,9 +254,9 @@ def catcher_remote_image(request):
                     f.write(remote_image.read())
                     f.close()
                     state="SUCCESS"
-                except Exception,E:
+                except Exception as E:
                     state=u"写入抓取图片文件错误:%s" % E.message
-            except Exception,E:
+            except Exception as E:
                 state=u"抓取图片错误：%s" % E.message
 
             catcher_infos.append({
@@ -299,7 +299,7 @@ def save_scrawl_file(request,filename):
         f.write(base64.decodestring(content))
         f.close()
         state="SUCCESS"
-    except Exception,E:
+    except Exception as E:
         state="写入图片文件错误:%s" % E.message
     return state
 
