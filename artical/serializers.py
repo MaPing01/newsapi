@@ -1,5 +1,6 @@
 from .models import *
 from rest_framework import serializers
+from rest_framework.validators import UniqueValidator,UniqueTogetherValidator
 
 
 class UserSerializer(serializers.ModelSerializer):
@@ -55,3 +56,44 @@ class ItemSerializer(serializers.ModelSerializer):
     class Meta:
         model = Item
         fields = '__all__'
+
+
+#标签
+class TagSerializer(serializers.ModelSerializer):
+    name = serializers.CharField(max_length=100,required=True)
+    slug = serializers.CharField(max_length=100,required=True)
+
+    class Meta:
+        model = Tag
+        fields = '__all__'
+
+
+class AdSerializer(serializers.ModelSerializer):
+    class Meta:
+        model = Ad
+        fields = '__all__'
+
+
+class ArticalSerializer(serializers.ModelSerializer):
+    author = UserSerializer()
+    item = ItemSerializer()
+    Tag = TagSerializer
+
+    class Meta:
+        model = Artical
+        fields = '__all__'
+
+
+class UserFavSerializer(serializers.ModelSerializer):
+    user = serializers.HiddenField(default=serializers.CurrentUserDefault)
+
+    class Meta:
+        model = UserFav
+        validators = [
+            UniqueTogetherValidator(
+                queryset= UserFav.objects.all(),
+                fields = ('articals','user'),
+                message = '已经收藏'
+            )
+        ]
+        fields = ('user','articals','id')
