@@ -2,80 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8d3d309e-c1cb-44c8-90fb-e9f24e11492d" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/deployment.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/artical/migrations/0001_initial.py" />
-      <change beforePath="$PROJECT_DIR$/DjangoUeditor/commands.py" afterPath="$PROJECT_DIR$/DjangoUeditor/commands.py" />
-      <change beforePath="$PROJECT_DIR$/DjangoUeditor/forms.py" afterPath="$PROJECT_DIR$/DjangoUeditor/forms.py" />
-      <change beforePath="$PROJECT_DIR$/DjangoUeditor/models.py" afterPath="$PROJECT_DIR$/DjangoUeditor/models.py" />
-      <change beforePath="$PROJECT_DIR$/DjangoUeditor/settings.py" afterPath="$PROJECT_DIR$/DjangoUeditor/settings.py" />
-      <change beforePath="$PROJECT_DIR$/DjangoUeditor/static/ueditor/_examples/server/打开笔记本.onetoc2" afterPath="$PROJECT_DIR$/DjangoUeditor/static/ueditor/_examples/server/打开笔记本.onetoc2" />
-      <change beforePath="$PROJECT_DIR$/DjangoUeditor/static/ueditor/_examples/打开笔记本.onetoc2" afterPath="$PROJECT_DIR$/DjangoUeditor/static/ueditor/_examples/打开笔记本.onetoc2" />
-      <change beforePath="$PROJECT_DIR$/DjangoUeditor/static/ueditor/dialogs/anchor/打开笔记本.onetoc2" afterPath="$PROJECT_DIR$/DjangoUeditor/static/ueditor/dialogs/anchor/打开笔记本.onetoc2" />
-      <change beforePath="$PROJECT_DIR$/DjangoUeditor/static/ueditor/dialogs/attachment/fileTypeImages/打开笔记本.onetoc2" afterPath="$PROJECT_DIR$/DjangoUeditor/static/ueditor/dialogs/attachment/fileTypeImages/打开笔记本.onetoc2" />
-      <change beforePath="$PROJECT_DIR$/DjangoUeditor/static/ueditor/dialogs/attachment/images/打开笔记本.onetoc2" afterPath="$PROJECT_DIR$/DjangoUeditor/static/ueditor/dialogs/attachment/images/打开笔记本.onetoc2" />
-      <change beforePath="$PROJECT_DIR$/DjangoUeditor/static/ueditor/dialogs/attachment/打开笔记本.onetoc2" afterPath="$PROJECT_DIR$/DjangoUeditor/static/ueditor/dialogs/attachment/打开笔记本.onetoc2" />
-      <change beforePath="$PROJECT_DIR$/DjangoUeditor/static/ueditor/dialogs/background/images/打开笔记本.onetoc2" afterPath="$PROJECT_DIR$/DjangoUeditor/static/ueditor/dialogs/background/images/打开笔记本.onetoc2" />
-      <change beforePath="$PROJECT_DIR$/DjangoUeditor/static/ueditor/dialogs/background/打开笔记本.onetoc2" afterPath="$PROJECT_DIR$/DjangoUeditor/static/ueditor/dialogs/background/打开笔记本.onetoc2" />
-      <change beforePath="$PROJECT_DIR$/DjangoUeditor/static/ueditor/dialogs/charts/images/打开笔记本.onetoc2" afterPath="$PROJECT_DIR$/DjangoUeditor/static/ueditor/dialogs/charts/images/打开笔记本.onetoc2" />
-      <change beforePath="$PROJECT_DIR$/DjangoUeditor/static/ueditor/dialogs/charts/打开笔记本.onetoc2" afterPath="$PROJECT_DIR$/DjangoUeditor/static/ueditor/dialogs/charts/打开笔记本.onetoc2" />
-      <change beforePath="$PROJECT_DIR$/DjangoUeditor/static/ueditor/dialogs/emotion/images/打开笔记本.onetoc2" afterPath="$PROJECT_DIR$/DjangoUeditor/static/ueditor/dialogs/emotion/images/打开笔记本.onetoc2" />
-      <change beforePath="$PROJECT_DIR$/DjangoUeditor/static/ueditor/dialogs/emotion/打开笔记本.onetoc2" afterPath="$PROJECT_DIR$/DjangoUeditor/static/ueditor/dialogs/emotion/打开笔记本.onetoc2" />
-      <change beforePath="$PROJECT_DIR$/DjangoUeditor/static/ueditor/dialogs/gmap/打开笔记本.onetoc2" afterPath="$PROJECT_DIR$/DjangoUeditor/static/ueditor/dialogs/gmap/打开笔记本.onetoc2" />
-      <change beforePath="$PROJECT_DIR$/DjangoUeditor/static/ueditor/dialogs/help/打开笔记本.onetoc2" afterPath="$PROJECT_DIR$/DjangoUeditor/static/ueditor/dialogs/help/打开笔记本.onetoc2" />
-      <change beforePath="$PROJECT_DIR$/DjangoUeditor/static/ueditor/dialogs/image/images/打开笔记本.onetoc2" afterPath="$PROJECT_DIR$/DjangoUeditor/static/ueditor/dialogs/image/images/打开笔记本.onetoc2" />
-      <change beforePath="$PROJECT_DIR$/DjangoUeditor/static/ueditor/dialogs/image/打开笔记本.onetoc2" afterPath="$PROJECT_DIR$/DjangoUeditor/static/ueditor/dialogs/image/打开笔记本.onetoc2" />
-      <change beforePath="$PROJECT_DIR$/DjangoUeditor/static/ueditor/dialogs/insertframe/打开笔记本.onetoc2" afterPath="$PROJECT_DIR$/DjangoUeditor/static/ueditor/dialogs/insertframe/打开笔记本.onetoc2" />
-      <change beforePath="$PROJECT_DIR$/DjangoUeditor/static/ueditor/dialogs/link/打开笔记本.onetoc2" afterPath="$PROJECT_DIR$/DjangoUeditor/static/ueditor/dialogs/link/打开笔记本.onetoc2" />
-      <change beforePath="$PROJECT_DIR$/DjangoUeditor/static/ueditor/dialogs/map/打开笔记本.onetoc2" afterPath="$PROJECT_DIR$/DjangoUeditor/static/ueditor/dialogs/map/打开笔记本.onetoc2" />
-      <change beforePath="$PROJECT_DIR$/DjangoUeditor/static/ueditor/dialogs/music/打开笔记本.onetoc2" afterPath="$PROJECT_DIR$/DjangoUeditor/static/ueditor/dialogs/music/打开笔记本.onetoc2" />
-      <change beforePath="$PROJECT_DIR$/DjangoUeditor/static/ueditor/dialogs/preview/打开笔记本.onetoc2" afterPath="$PROJECT_DIR$/DjangoUeditor/static/ueditor/dialogs/preview/打开笔记本.onetoc2" />
-      <change beforePath="$PROJECT_DIR$/DjangoUeditor/static/ueditor/dialogs/scrawl/images/打开笔记本.onetoc2" afterPath="$PROJECT_DIR$/DjangoUeditor/static/ueditor/dialogs/scrawl/images/打开笔记本.onetoc2" />
-      <change beforePath="$PROJECT_DIR$/DjangoUeditor/static/ueditor/dialogs/scrawl/打开笔记本.onetoc2" afterPath="$PROJECT_DIR$/DjangoUeditor/static/ueditor/dialogs/scrawl/打开笔记本.onetoc2" />
-      <change beforePath="$PROJECT_DIR$/DjangoUeditor/static/ueditor/dialogs/searchreplace/打开笔记本.onetoc2" afterPath="$PROJECT_DIR$/DjangoUeditor/static/ueditor/dialogs/searchreplace/打开笔记本.onetoc2" />
-      <change beforePath="$PROJECT_DIR$/DjangoUeditor/static/ueditor/dialogs/snapscreen/打开笔记本.onetoc2" afterPath="$PROJECT_DIR$/DjangoUeditor/static/ueditor/dialogs/snapscreen/打开笔记本.onetoc2" />
-      <change beforePath="$PROJECT_DIR$/DjangoUeditor/static/ueditor/dialogs/spechars/打开笔记本.onetoc2" afterPath="$PROJECT_DIR$/DjangoUeditor/static/ueditor/dialogs/spechars/打开笔记本.onetoc2" />
-      <change beforePath="$PROJECT_DIR$/DjangoUeditor/static/ueditor/dialogs/table/打开笔记本.onetoc2" afterPath="$PROJECT_DIR$/DjangoUeditor/static/ueditor/dialogs/table/打开笔记本.onetoc2" />
-      <change beforePath="$PROJECT_DIR$/DjangoUeditor/static/ueditor/dialogs/template/images/打开笔记本.onetoc2" afterPath="$PROJECT_DIR$/DjangoUeditor/static/ueditor/dialogs/template/images/打开笔记本.onetoc2" />
-      <change beforePath="$PROJECT_DIR$/DjangoUeditor/static/ueditor/dialogs/template/打开笔记本.onetoc2" afterPath="$PROJECT_DIR$/DjangoUeditor/static/ueditor/dialogs/template/打开笔记本.onetoc2" />
-      <change beforePath="$PROJECT_DIR$/DjangoUeditor/static/ueditor/dialogs/video/images/打开笔记本.onetoc2" afterPath="$PROJECT_DIR$/DjangoUeditor/static/ueditor/dialogs/video/images/打开笔记本.onetoc2" />
-      <change beforePath="$PROJECT_DIR$/DjangoUeditor/static/ueditor/dialogs/video/打开笔记本.onetoc2" afterPath="$PROJECT_DIR$/DjangoUeditor/static/ueditor/dialogs/video/打开笔记本.onetoc2" />
-      <change beforePath="$PROJECT_DIR$/DjangoUeditor/static/ueditor/dialogs/webapp/打开笔记本.onetoc2" afterPath="$PROJECT_DIR$/DjangoUeditor/static/ueditor/dialogs/webapp/打开笔记本.onetoc2" />
-      <change beforePath="$PROJECT_DIR$/DjangoUeditor/static/ueditor/dialogs/wordimage/打开笔记本.onetoc2" afterPath="$PROJECT_DIR$/DjangoUeditor/static/ueditor/dialogs/wordimage/打开笔记本.onetoc2" />
-      <change beforePath="$PROJECT_DIR$/DjangoUeditor/static/ueditor/dialogs/打开笔记本.onetoc2" afterPath="$PROJECT_DIR$/DjangoUeditor/static/ueditor/dialogs/打开笔记本.onetoc2" />
-      <change beforePath="$PROJECT_DIR$/DjangoUeditor/static/ueditor/lang/en/images/打开笔记本.onetoc2" afterPath="$PROJECT_DIR$/DjangoUeditor/static/ueditor/lang/en/images/打开笔记本.onetoc2" />
-      <change beforePath="$PROJECT_DIR$/DjangoUeditor/static/ueditor/lang/en/打开笔记本.onetoc2" afterPath="$PROJECT_DIR$/DjangoUeditor/static/ueditor/lang/en/打开笔记本.onetoc2" />
-      <change beforePath="$PROJECT_DIR$/DjangoUeditor/static/ueditor/lang/zh-cn/images/打开笔记本.onetoc2" afterPath="$PROJECT_DIR$/DjangoUeditor/static/ueditor/lang/zh-cn/images/打开笔记本.onetoc2" />
-      <change beforePath="$PROJECT_DIR$/DjangoUeditor/static/ueditor/lang/zh-cn/打开笔记本.onetoc2" afterPath="$PROJECT_DIR$/DjangoUeditor/static/ueditor/lang/zh-cn/打开笔记本.onetoc2" />
-      <change beforePath="$PROJECT_DIR$/DjangoUeditor/static/ueditor/lang/打开笔记本.onetoc2" afterPath="$PROJECT_DIR$/DjangoUeditor/static/ueditor/lang/打开笔记本.onetoc2" />
-      <change beforePath="$PROJECT_DIR$/DjangoUeditor/static/ueditor/php/打开笔记本.onetoc2" afterPath="$PROJECT_DIR$/DjangoUeditor/static/ueditor/php/打开笔记本.onetoc2" />
-      <change beforePath="$PROJECT_DIR$/DjangoUeditor/static/ueditor/themes/default/css/打开笔记本.onetoc2" afterPath="$PROJECT_DIR$/DjangoUeditor/static/ueditor/themes/default/css/打开笔记本.onetoc2" />
-      <change beforePath="$PROJECT_DIR$/DjangoUeditor/static/ueditor/themes/default/images/打开笔记本.onetoc2" afterPath="$PROJECT_DIR$/DjangoUeditor/static/ueditor/themes/default/images/打开笔记本.onetoc2" />
-      <change beforePath="$PROJECT_DIR$/DjangoUeditor/static/ueditor/themes/default/打开笔记本.onetoc2" afterPath="$PROJECT_DIR$/DjangoUeditor/static/ueditor/themes/default/打开笔记本.onetoc2" />
-      <change beforePath="$PROJECT_DIR$/DjangoUeditor/static/ueditor/themes/打开笔记本.onetoc2" afterPath="$PROJECT_DIR$/DjangoUeditor/static/ueditor/themes/打开笔记本.onetoc2" />
-      <change beforePath="$PROJECT_DIR$/DjangoUeditor/static/ueditor/third-party/SyntaxHighlighter/打开笔记本.onetoc2" afterPath="$PROJECT_DIR$/DjangoUeditor/static/ueditor/third-party/SyntaxHighlighter/打开笔记本.onetoc2" />
-      <change beforePath="$PROJECT_DIR$/DjangoUeditor/static/ueditor/third-party/codemirror/打开笔记本.onetoc2" afterPath="$PROJECT_DIR$/DjangoUeditor/static/ueditor/third-party/codemirror/打开笔记本.onetoc2" />
-      <change beforePath="$PROJECT_DIR$/DjangoUeditor/static/ueditor/third-party/highcharts/adapters/打开笔记本.onetoc2" afterPath="$PROJECT_DIR$/DjangoUeditor/static/ueditor/third-party/highcharts/adapters/打开笔记本.onetoc2" />
-      <change beforePath="$PROJECT_DIR$/DjangoUeditor/static/ueditor/third-party/highcharts/modules/打开笔记本.onetoc2" afterPath="$PROJECT_DIR$/DjangoUeditor/static/ueditor/third-party/highcharts/modules/打开笔记本.onetoc2" />
-      <change beforePath="$PROJECT_DIR$/DjangoUeditor/static/ueditor/third-party/highcharts/themes/打开笔记本.onetoc2" afterPath="$PROJECT_DIR$/DjangoUeditor/static/ueditor/third-party/highcharts/themes/打开笔记本.onetoc2" />
-      <change beforePath="$PROJECT_DIR$/DjangoUeditor/static/ueditor/third-party/highcharts/打开笔记本.onetoc2" afterPath="$PROJECT_DIR$/DjangoUeditor/static/ueditor/third-party/highcharts/打开笔记本.onetoc2" />
-      <change beforePath="$PROJECT_DIR$/DjangoUeditor/static/ueditor/third-party/snapscreen/打开笔记本.onetoc2" afterPath="$PROJECT_DIR$/DjangoUeditor/static/ueditor/third-party/snapscreen/打开笔记本.onetoc2" />
-      <change beforePath="$PROJECT_DIR$/DjangoUeditor/static/ueditor/third-party/video-js/font/打开笔记本.onetoc2" afterPath="$PROJECT_DIR$/DjangoUeditor/static/ueditor/third-party/video-js/font/打开笔记本.onetoc2" />
-      <change beforePath="$PROJECT_DIR$/DjangoUeditor/static/ueditor/third-party/video-js/打开笔记本.onetoc2" afterPath="$PROJECT_DIR$/DjangoUeditor/static/ueditor/third-party/video-js/打开笔记本.onetoc2" />
-      <change beforePath="$PROJECT_DIR$/DjangoUeditor/static/ueditor/third-party/webuploader/打开笔记本.onetoc2" afterPath="$PROJECT_DIR$/DjangoUeditor/static/ueditor/third-party/webuploader/打开笔记本.onetoc2" />
-      <change beforePath="$PROJECT_DIR$/DjangoUeditor/static/ueditor/third-party/zeroclipboard/打开笔记本.onetoc2" afterPath="$PROJECT_DIR$/DjangoUeditor/static/ueditor/third-party/zeroclipboard/打开笔记本.onetoc2" />
-      <change beforePath="$PROJECT_DIR$/DjangoUeditor/static/ueditor/third-party/打开笔记本.onetoc2" afterPath="$PROJECT_DIR$/DjangoUeditor/static/ueditor/third-party/打开笔记本.onetoc2" />
-      <change beforePath="$PROJECT_DIR$/DjangoUeditor/static/ueditor/打开笔记本.onetoc2" afterPath="$PROJECT_DIR$/DjangoUeditor/static/ueditor/打开笔记本.onetoc2" />
-      <change beforePath="$PROJECT_DIR$/DjangoUeditor/static/打开笔记本.onetoc2" afterPath="$PROJECT_DIR$/DjangoUeditor/static/打开笔记本.onetoc2" />
-      <change beforePath="$PROJECT_DIR$/DjangoUeditor/templates/打开笔记本.onetoc2" afterPath="$PROJECT_DIR$/DjangoUeditor/templates/打开笔记本.onetoc2" />
-      <change beforePath="$PROJECT_DIR$/DjangoUeditor/urls.py" afterPath="$PROJECT_DIR$/DjangoUeditor/urls.py" />
-      <change beforePath="$PROJECT_DIR$/DjangoUeditor/views.py" afterPath="$PROJECT_DIR$/DjangoUeditor/views.py" />
-      <change beforePath="$PROJECT_DIR$/DjangoUeditor/widgets.py" afterPath="$PROJECT_DIR$/DjangoUeditor/widgets.py" />
-      <change beforePath="$PROJECT_DIR$/DjangoUeditor/打开笔记本.onetoc2" afterPath="$PROJECT_DIR$/DjangoUeditor/打开笔记本.onetoc2" />
-      <change beforePath="$PROJECT_DIR$/artical/models.py" afterPath="$PROJECT_DIR$/artical/models.py" />
-      <change beforePath="$PROJECT_DIR$/newsapi/settings.py" afterPath="$PROJECT_DIR$/newsapi/settings.py" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/artical/views.py" afterPath="$PROJECT_DIR$/artical/views.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -89,36 +17,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/newsapi/settings.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="278">
-              <caret line="90" column="44" lean-forward="true" selection-start-line="90" selection-start-column="44" selection-end-line="90" selection-end-column="44" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/artical/__init__.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="apps.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/artical/apps.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DjangoUeditor/__init__.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -132,28 +30,18 @@
       <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/newsapi/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="99">
-              <caret line="9" column="20" lean-forward="false" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+            <state relative-caret-position="486">
+              <caret line="19" column="36" lean-forward="false" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/newsapi/__init__.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="27">
-              <caret line="1" column="11" lean-forward="false" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="models.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/artical/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="383">
-              <caret line="80" column="33" lean-forward="true" selection-start-line="80" selection-start-column="33" selection-end-line="80" selection-end-column="33" />
+            <state relative-caret-position="341">
+              <caret line="75" column="8" lean-forward="false" selection-start-line="75" selection-start-column="4" selection-end-line="75" selection-end-column="8" />
               <folding>
                 <element signature="e#0#28#0" expanded="true" />
               </folding>
@@ -164,8 +52,8 @@
       <file leaf-file-name="admin.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/artical/admin.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-112">
-              <caret line="14" column="33" lean-forward="true" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+            <state relative-caret-position="432">
+              <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
               <folding>
                 <element signature="e#0#32#0" expanded="true" />
               </folding>
@@ -173,14 +61,89 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="serializers.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/artical/serializers.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="47" column="24" lean-forward="false" selection-start-line="47" selection-start-column="24" selection-end-line="47" selection-end-column="24" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="validators.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/rest_framework/validators.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="99" column="48" lean-forward="false" selection-start-line="99" selection-start-column="41" selection-end-line="99" selection-end-column="48" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="relations.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/rest_framework/relations.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="452" column="33" lean-forward="false" selection-start-line="452" selection-start-column="23" selection-end-line="452" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="views.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/artical/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="274">
+              <caret line="28" column="37" lean-forward="false" selection-start-line="28" selection-start-column="37" selection-end-line="28" selection-end-column="37" />
+              <folding>
+                <element signature="e#0#35#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="log_uitility.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/utility/log_uitility.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="18" column="9" lean-forward="false" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="serializers.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/rest_framework/serializers.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="482">
+              <caret line="119" column="38" lean-forward="false" selection-start-line="119" selection-start-column="38" selection-end-line="119" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
       <find>set</find>
       <find>django-filters</find>
-      <find>forei</find>
       <find>widgetswidgets</find>
+      <find>forei</find>
+      <find>Model</find>
+      <find>init</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -198,6 +161,8 @@
         <option value="$PROJECT_DIR$/DjangoUeditor/widgets.py" />
         <option value="$PROJECT_DIR$/artical/models.py" />
         <option value="$PROJECT_DIR$/DjangoUeditor/__init__.py" />
+        <option value="$PROJECT_DIR$/artical/serializers.py" />
+        <option value="$PROJECT_DIR$/artical/views.py" />
       </list>
     </option>
   </component>
@@ -207,11 +172,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="355" />
-    <option name="y" value="214" />
-    <option name="width" value="1399" />
-    <option name="height" value="833" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="312" />
+    <option name="y" value="173" />
+    <option name="width" value="1489" />
+    <option name="height" value="799" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -229,7 +194,6 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -251,13 +215,14 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="last_opened_file_path" value="D:/maping/work_test" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../newsapi-" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -289,7 +254,7 @@
       <option name="port" value="9998" />
       <option name="host" value="localhost" />
       <option name="additionalOptions" value="" />
-      <option name="browserUrl" value="http://127.0.0.1:8000/" />
+      <option name="browserUrl" value="http://127.0.0.1:9998/" />
       <option name="runTestServer" value="false" />
       <option name="runNoReload" value="false" />
       <option name="useCustomRunCommand" value="false" />
@@ -394,21 +359,70 @@
       <option name="project" value="LOCAL" />
       <updated>1540541991417</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="change DjangoUeitor can run localhost/admin">
+      <created>1540543792242</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1540543792242</updated>
+    </task>
+    <task id="LOCAL-00014" summary="requirement.txt">
+      <created>1540544024870</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1540544024870</updated>
+    </task>
+    <task id="LOCAL-00015" summary="serializer change on 2018-10-30 16">
+      <created>1540888046852</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1540888046852</updated>
+    </task>
+    <task id="LOCAL-00016" summary="serializer change on 2018-10-30 17:46">
+      <created>1540892781765</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1540892781766</updated>
+    </task>
+    <task id="LOCAL-00017" summary="log utility">
+      <created>1540967106811</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1540967106811</updated>
+    </task>
+    <task id="LOCAL-00018" summary="onenote">
+      <created>1540968134222</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1540968134222</updated>
+    </task>
+    <task id="LOCAL-00019" summary="onenote 1">
+      <created>1540968506001</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1540968506001</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="312" y="173" width="1489" height="799" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37555555" sideWeight="0.21748401" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="manage.py@newsapi" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.37555555" sideWeight="0.782516" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.281493" sideWeight="0.5178446" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4977778" sideWeight="0.68603414" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.4978678" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.7911111" sideWeight="0.48773986" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.281493" sideWeight="0.48215535" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.117803834" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15675297" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -418,6 +432,7 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="manage.py@newsapi" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37555555" sideWeight="0.782516" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -443,13 +458,72 @@
     <MESSAGE value="add modles" />
     <MESSAGE value="add modles 1" />
     <MESSAGE value="admin change" />
-    <option name="LAST_COMMIT_MESSAGE" value="admin change" />
+    <MESSAGE value="change DjangoUeitor can run localhost/admin" />
+    <MESSAGE value="requirement.txt" />
+    <MESSAGE value="serializer change on 2018-10-30 16" />
+    <MESSAGE value="serializer change on 2018-10-30 17:46" />
+    <MESSAGE value="log utility" />
+    <MESSAGE value="onenote" />
+    <MESSAGE value="onenote 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="onenote 1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/newsapi/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2295">
+          <caret line="85" column="23" lean-forward="true" selection-start-line="85" selection-start-column="23" selection-end-line="85" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/artical/apps.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DjangoUeditor/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newsapi/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="19" column="36" lean-forward="true" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/artical/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2079">
+          <caret line="80" column="33" lean-forward="false" selection-start-line="80" selection-start-column="33" selection-end-line="80" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/artical/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="21" column="41" lean-forward="true" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="41" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/newsapi/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1944">
@@ -488,7 +562,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="27">
           <caret line="1" column="12" lean-forward="false" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -525,14 +598,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/newsapi/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="9" column="20" lean-forward="false" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/DjangoUeditor/models.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
@@ -547,7 +612,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
           <caret line="96" column="15" lean-forward="false" selection-start-line="96" selection-start-column="15" selection-end-line="96" selection-end-column="15" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -559,10 +623,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/newsapi/settings.py">
+    <entry file="file://$PROJECT_DIR$/artical/migrations/0001_initial.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="90" column="44" lean-forward="true" selection-start-line="90" selection-start-column="44" selection-end-line="90" selection-end-column="44" />
+        <state relative-caret-position="-2418">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/artical/migrations/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newsapi/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="11" lean-forward="false" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="15" column="26" lean-forward="false" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
           <folding />
         </state>
       </provider>
@@ -575,10 +660,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/newsapi/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="85" column="23" lean-forward="false" selection-start-line="85" selection-start-column="23" selection-end-line="85" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/artical/apps.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
-          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -591,46 +684,84 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/artical/migrations/0001_initial.py">
+    <entry file="file://$PROJECT_DIR$/newsapi/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2418">
-          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/artical/migrations/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/newsapi/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="1" column="11" lean-forward="false" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+        <state relative-caret-position="486">
+          <caret line="19" column="36" lean-forward="false" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/artical/admin.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-112">
-          <caret line="14" column="33" lean-forward="true" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+        <state relative-caret-position="432">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding>
             <element signature="e#0#32#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/rest_framework/serializers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="482">
+          <caret line="119" column="38" lean-forward="false" selection-start-line="119" selection-start-column="38" selection-end-line="119" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/rest_framework/relations.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="452" column="33" lean-forward="false" selection-start-line="452" selection-start-column="23" selection-end-line="452" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/rest_framework/validators.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="99" column="48" lean-forward="false" selection-start-line="99" selection-start-column="41" selection-end-line="99" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utility/log_uitility.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="18" column="9" lean-forward="false" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/artical/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="383">
-          <caret line="80" column="33" lean-forward="true" selection-start-line="80" selection-start-column="33" selection-end-line="80" selection-end-column="33" />
+        <state relative-caret-position="341">
+          <caret line="75" column="8" lean-forward="false" selection-start-line="75" selection-start-column="4" selection-end-line="75" selection-end-column="8" />
           <folding>
             <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/artical/serializers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="47" column="24" lean-forward="false" selection-start-line="47" selection-start-column="24" selection-end-line="47" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/artical/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="28" column="37" lean-forward="false" selection-start-line="28" selection-start-column="37" selection-end-line="28" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
           </folding>
         </state>
       </provider>
